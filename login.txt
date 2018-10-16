@@ -1,0 +1,4 @@
+Username = usernom
+Password = passwd
+Size = small
+Google Sheet Name = Some sheet
