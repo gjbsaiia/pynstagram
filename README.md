@@ -17,8 +17,8 @@ Size refers to the size of your account. Accounts with followers/following less 
 bigger accounts must run "big" so your requests are paced more slowly.</br>
 
 Must be in the following format:</br>
-Username = [ your username ]</br>
-Password = [ passwd ]</br>
+Username = usernom</br>
+Password = password</br>
 Size = [ big / small ]</br>
 
 ## Setting up automated sheet
