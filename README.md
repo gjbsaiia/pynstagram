@@ -1,7 +1,8 @@
 # pynstagram
 Python API using selenium that scrapes data from your account</br>
--- work in progress... bear w me</br>
-currently all functionality works for Ubuntu</br>
+Also allows you to unfollow targeted accounts (non-follow-backers, ghost accounts)</br>
+Currently all functionality works for Ubuntu</br>
+
 ## Coming features
   - Hashtags that target your audience
   - Graphics
@@ -27,3 +28,7 @@ follow this tutorial to correctly configure your automated sheet and get your cr
 - https://www.makeuseof.com/tag/read-write-google-sheets-python/
 Credential need to be in .json format, titled "creds.json"</br>
 Sheet can be titled however you like, but there needs to be three sub sheets, "RecentPost", "LikeListing", "Top10Followers"</br>
+
+## Example Script
+I've included the data scraping bot I use with my API. Shows how I incorporated google sheets.</br>
+If you set up your Google Sheet with the instructions in the tutorial above, you can run my example.</br>
