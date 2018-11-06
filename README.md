@@ -1,11 +1,14 @@
 # pynstagram
 Python API using selenium that scrapes data from your account</br>
 Also allows you to unfollow targeted accounts (non-follow-backers, ghost accounts)</br>
-Currently all functionality works for Ubuntu</br>
+Functionality for Ubuntu</br>
 
-## Coming features
-  - Hashtags that target your audience
-  - Graphics
+## Update
+Facebook has been mutating their html structure most weeks, this makes upkeep exhausting. </br>
+This project has lost a lot of its appeal for me, so I won't be maintaining this tool. </br>
+All the code here is valid, and works - all that needs to be changed are the xpaths stored in</br>
+instaDictionaries.py. Typically the only change in htmml is an extra <div>. </br>
+Hope someone else can have as much fun as I did with this project!</br>
   
 ## This program requires the following installs:
   - python 2.7 (prob already have this)
